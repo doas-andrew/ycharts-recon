@@ -1,0 +1,4 @@
+Cash 8000
+GOOG 10
+TD -100
+MSFT 10
